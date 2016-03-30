@@ -1,0 +1,32 @@
+{
+  "name": "hyper-cli",
+  "version": "0.0.1",
+  "description": "An API builder for object endpoints. (ember)",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanBland/hyper-cli.git"
+  },
+  "keywords": [
+    "Ember",
+    "cli",
+    "api",
+    "generator",
+    "constructor",
+    "helper",
+    "add-on"
+  ],
+  "author": "Nathan Bland <nathan.bland@gmail.com> (https://nathanbland.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NathanBland/hyper-cli/issues"
+  },
+  "homepage": "https://github.com/NathanBland/hyper-cli#readme",
+  "dependencies": {
+    "vorpal": "^1.10.10"
+  }
+}
